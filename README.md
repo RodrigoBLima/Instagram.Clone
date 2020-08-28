@@ -5,7 +5,7 @@
 <div align="center">  
 
 [![Linkedin Badge](https://img.shields.io/badge/-RodrigoBarbosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/rodrigo-barbosa-710b10180/)][linkedin]
-![BADGE_LICENSE] ![BADGE_WEB_REACT] ![BADGE_MOBILE_REACT_NATIVE] ![BADGE_SERVER_NODEJS] ![BADGE_OPEN_SOURCE] ![BADGE_NODE_VERSION]
+![BADGE_LICENSE] ![BADGE_MOBILE_REACT_NATIVE] ![BADGE_SERVER_NODEJS] ![BADGE_OPEN_SOURCE] ![BADGE_NODE_VERSION]
 ![Git Stars][star-badge]
 ![Last Commit][last-commit-badge]
 ![Codacy Quality][codacy-badge]
